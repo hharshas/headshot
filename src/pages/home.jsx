@@ -1,9 +1,9 @@
 import React from "react";
 import bg from "../assets/2.webp";
-import bottle from "../assets/4sus.png";
-import title from "../assets/1.png";
-import context from "../assets/10.png";
-import caf from "../assets/8.png";
+import bottle from "../assets/4sus.webp";
+import title from "../assets/1.webp";
+import context from "../assets/10.webp";
+import caf from "../assets/8.webp";
 import { motion } from "framer-motion";
 import { Section } from "../App";
 export const Home = () => {

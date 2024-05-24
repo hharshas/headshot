@@ -1,4 +1,4 @@
-import mckp from "../assets/9.png";
+import mckp from "../assets/9.webp";
 import React, { useState, useEffect } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 
