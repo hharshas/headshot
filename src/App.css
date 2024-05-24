@@ -1,11 +1,10 @@
 @font-face {
   font-family: 'otffont';
-  src: url('./assets/CheddarGothicRough-Regular.otf') format('opentype');
+  src: url('./assets/CheddarGothicRough-Regular.woff2') format('woff2');
 }
-
 @font-face {
   font-family: 'spratanotf';
-  src: url('./assets/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+  src: url('./assets/LeagueSpartan-VariableFont_wght.woff2') format('woff2');
 }
 
 .otffont {
