@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'otffont';
+  src: url('./assets/CheddarGothicRough-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'spratanotf';
+  src: url('./assets/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
+}
+
+.otffont {
+  font-family: 'otffont', sans-serif;
+}
+.spratanotf{
+  font-family: 'spratanotf';
+}
+body {
+  cursor: none;
+  /* display: flex;
+  text-align: center;
+  justify-content: center; */
+}
+.app {
+  overflow-x: hidden;
+}
+
+@keyframes bounceUpDown {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); } 
+}
+#tsparticles {
+  height: 100vh;
+  width: 100vw;
+}
