@@ -4,11 +4,10 @@ import './App.css'
 import {motion} from "framer-motion"
 import { Home } from './pages/home';
 import { TickerPage } from './pages/ticker';
-import ContactComponent from "./pages/Contact/ContactContainer"
 import Scroller from './pages/scroller';
 import FooterT from './pages/footer';
 import { AnimatePresence } from "framer-motion"
-import { useLocomotiveScroll, usePreLoader } from "./hooks"
+import { usePreLoader } from "./hooks"
 import CustomCursor from './pages/CustomCursor';
 import Loader from './pages/Loader';
 import {MyForm} from './pages/MyForm';
