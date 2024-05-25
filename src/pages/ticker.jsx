@@ -1,5 +1,5 @@
 import Ticker from "react-ticker";
-import SkullImage from "../assets/bear.webp";
+import SkullImage from "/bear.webp";
 import { Section } from "../App";
 
 export const featuredData = [
