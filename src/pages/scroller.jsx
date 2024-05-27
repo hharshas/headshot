@@ -48,7 +48,7 @@ function Image({ id }) {
       }}>
         {/* <img className="w-full opacity-80 bg-black" src={`./img${id}.webp`} alt="A London skyscraper" /> */}
       </div>
-      <motion.h2 className="otffont tracking-widest sm:text-[250px] text-[90px] absolute text-white" style={{ y }}>{galleryData[id-1].title}</motion.h2>
+      <motion.h2 className="otffont tracking-widest sm:text-[200px] text-[70px] absolute text-white" style={{ y }}>{galleryData[id-1].title}</motion.h2>
     </scroller_section>
   );
 }   

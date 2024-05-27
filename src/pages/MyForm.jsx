@@ -42,7 +42,7 @@ export const MyForm = () => {
     <div className="h-screen w-screen p-[10vw]">
       <Section>
         <div className="text-yellow-400 otffont tracking-widest w-full text-center text-4xl mb-10">
-          Link up online or at meet-ups and events
+         LOOKING FOR HEADSHOTS?
         </div>
         <form class="max-w-md mx-auto text-center">
           <div class="relative z-0 w-full mb-5 group">
