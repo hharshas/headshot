@@ -1,18 +1,4 @@
-@font-face {
-  font-family: 'otffont';
-  src: url('/CheddarGothicRough-Regular.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'spratanotf';
-  src: url('/LeagueSpartan-VariableFont_wght.woff2') format('woff2');
-}
 
-.otffont {
-  font-family: 'otffont', sans-serif;
-}
-.spratanotf{
-  font-family: 'spratanotf';
-}
 body {
   cursor: none;
   /* display: flex;
