@@ -33,7 +33,7 @@ export const Home = () => {
           }}
         >
           <img
-            className="-z-20 sm:top-1 top-[80px] sm:w-[1300px] w-[1000px] sm:h-auto sm:left-[150px] left-[10px] absolute"
+            className="-z-20 sm:top-1 top-[80px] sm:w-[1300px] w-[1000px] sm:h-auto sm:left-[136px] left-[10px] absolute"
             src={title}
             alt="CREATIVE JUICE"
           />
