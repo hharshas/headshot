@@ -50,7 +50,7 @@ export const TickerPage = () => {
                 alt="skullimage"
                 id="skullimage"
               />
-              <div className="absolute h-screen w-screen text-yellow-300 otffont font-extrabold sm:text-[45px] text-[20px] transform -rotate-2 ">
+              <div className="absolute h-screen sm:w-screen w-[200%] text-yellow-300 otffont font-extrabold sm:text-[45px] text-[30px] transform -rotate-2 ">
                 {tickerTexts.map(({ text, speed }, index) => (
                   <div className="moving-text-background">
                     <Ticker offset="run-in" speed={speed}>
